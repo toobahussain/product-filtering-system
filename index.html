@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Filter System</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <header>
+    <h1>Product Catalog</h1>
+  </header>
+
+  <section class="controls">
+
+    <input type="text" id="searchInput" placeholder="Search products..." />
+
+    <select id="categoryFilter">
+      <option value="all">All Categories</option>
+      <option value="Electronics">Electronics</option>
+      <option value="Fashion">Fashion</option>
+      <option value="Accessories">Accessories</option>
+    </select>
+
+    <select id="sortPrice">
+      <option value="default">Sort by Price</option>
+      <option value="low-high">Low → High</option>
+      <option value="high-low">High → Low</option>
+    </select>
+
+  </section>
+
+  <p id="resultCount"></p>
+
+  <section id="productContainer" class="grid"></section>
+
+  <script src="/script/script.js"></script>
+</body>
+</html>

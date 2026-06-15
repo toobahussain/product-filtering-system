@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Wireless Headphones", "category": "Electronics", "price": 9500 },
+  { "id": 2, "name": "Running Shoes", "category": "Fashion", "price": 5000 },
+  { "id": 3, "name": "Smart Watch", "category": "Electronics", "price": 2000 },
+  { "id": 4, "name": "Backpack", "category": "Accessories", "price": 1000 },
+  { "id": 5, "name": "Gaming Mouse", "category": "Electronics", "price": 900 },
+  { "id": 6, "name": "Sunglasses", "category": "Fashion", "price": 550 },
+  { "id": 7, "name": "Bluetooth Speaker", "category": "Electronics", "price": 9000 },
+  { "id": 8, "name": "Leather Wallet", "category": "Accessories", "price": 500 },
+  { "id": 9, "name": "Formal Shirt", "category": "Fashion", "price": 670 },
+  { "id": 10, "name": "Jeans", "category": "Fashion", "price": 700 },
+  { "id": 11, "name": "Laptop Stand", "category": "Electronics", "price": 550 },
+  { "id": 12, "name": "USB-C Charger", "category": "Electronics", "price": 250 },
+  { "id": 13, "name": "Fitness Band", "category": "Electronics", "price": 650 },
+  { "id": 14, "name": "Cap", "category": "Fashion", "price": 200 },
+  { "id": 15, "name": "Travel Bag", "category": "Accessories", "price": 1500 },
+  { "id": 16, "name": "Desk Lamp", "category": "Electronics", "price": 2000 },
+  { "id": 17, "name": "Notebook Set", "category": "Accessories", "price": 1500 },
+  { "id": 18, "name": "Pen Holder", "category": "Accessories", "price": 100 },
+  { "id": 19, "name": "Wireless Keyboard", "category": "Electronics", "price": 1100 },
+  { "id": 20, "name": "Gaming Chair", "category": "Accessories", "price": 25000 }
+]
