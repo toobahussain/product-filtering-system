@@ -21,10 +21,10 @@ async function loadProducts() {
 function filterProducts() {
   let result = [...allProducts];
 
-  const searchText = searchInput.value.toUpperCase().trim();
+  const searchText = searchInput.value.toLowerCase().trim();
   if (searchText) {
     result = result.filter(p =>
-      p.name.toUpperCase().includes(searchText)
+      p.name.toLowerCase().includes(searchText)
     );
   }
 
